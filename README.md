@@ -1,9 +1,11 @@
 ## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
-Olá, meu nome é Vinicius Duarte. E sou um amante no mundo da tecnologia. Atualmente fazendo bootcamp de programação na área de web full-stack pela a labenu.
+ Meu nome é Vinicius Duarte. Estou em transição de carreira para aréa de tecnologi. Atualmente sou uma desenvolvedora full stack em formação pelo bootcamp Labenu,
+tenho experiência no desenvolvimento de projetos voltados à front e back-end utilizando tecnologias como Javascript, Typescript, NodeJS e React. Ao longo da
+minha carreira sempre busquei impactar a vida das pessoas de forma positiva com um olhar em inovação e diversidade.
  - 😄 Pronomes: ele/dele
- # 🔍 Contatos
+ # 🔍 Contatos: 74998079070
 <div> 
   <a href="https://www.instagram.com/vini_duarte9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vinicius.benduarte14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
