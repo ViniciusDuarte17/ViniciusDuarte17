@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
- Meu nome é Vinicius Duarte. Estou em transição de carreira para aréa de tecnologia. Atualmente sou uma desenvolvedora full stack em formação pelo bootcamp Labenu,
+ Meu nome é Vinicius Duarte. Estou em transição de carreira para aréa de tecnologia. Atualmente sou uma desenvolvedor full stack em formação pelo bootcamp Labenu,
 tenho experiência no desenvolvimento de projetos voltados à front e back-end utilizando tecnologias como Javascript, Typescript, NodeJS e React. Ao longo da
 minha carreira sempre busquei impactar a vida das pessoas de forma positiva com um olhar em inovação e diversidade.
  - 😄 Pronomes: ele/dele
