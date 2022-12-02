@@ -5,7 +5,7 @@
 tenho experiência no desenvolvimento de projetos voltados à front e back-end utilizando tecnologias como Javascript, Typescript, NodeJS e React. Ao longo da
 minha carreira sempre busquei impactar a vida das pessoas de forma positiva com um olhar em inovação e diversidade.
  - 😄 Pronomes: ele/dele
- # 🔍 Contatos: 74998079070
+ ### 🔍 Contatos: 74998079070
 <div> 
   <a href="https://www.instagram.com/vini_duarte9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "vinicius.benduarte14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
