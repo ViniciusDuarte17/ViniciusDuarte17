@@ -1,9 +1,7 @@
 ## Bem-vindo ao meu gitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br>
 
- Meu nome é Vinicius Duarte. Estou em transição de carreira para aréa de tecnologia. Atualmente sou uma desenvolvedor full stack formado pelo bootcamp Labenu,
-tenho experiência no desenvolvimento de projetos voltados à front e back-end utilizando tecnologias como Javascript, Typescript, NodeJS e React. Ao longo da
-minha carreira sempre busquei impactar a vida das pessoas de forma positiva com um olhar em inovação e diversidade.
+Meu nome é Vinicius Duarte e estou em transição de carreira para a área de tecnologia. Sou formado em desenvolvimento full stack pelo bootcamp Labenu e possuo experiência no desenvolvimento de projetos front-end e back-end utilizando tecnologias como Javascript, Typescript, NodeJS e React. Durante minha carreira, sempre estive comprometido em utilizar a inovação e a diversidade como ferramentas para impactar positivamente a vida das pessoas. Estou animado para aplicar minhas habilidades e conhecimentos em novos desafios na área de tecnologia.
  - 😄 Pronomes: ele/dele
  ### 🔍 Contatos: 74998079070
 <div> 
